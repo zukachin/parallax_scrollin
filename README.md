@@ -8,7 +8,7 @@ Create an engaging parallax scrolling website with dynamic elements that respond
 This project demonstrates how to implement parallax scrolling on a website using HTML, CSS, and JavaScript. It creates a visually appealing effect where different elements on the page move at varying speeds as the user scrolls, providing depth and interactivity.
 
 [Demo!](https://zukachin.github.io/parallax_scrollin/)
-![Parallax Scrolling Website Demo](assets\img\demo.png)
+![Parallax Scrolling Website Demo](./assets/img/demo.png)
 
 
 ## Technologies Used
